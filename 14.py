@@ -1,0 +1,1 @@
+def to_fahrenheit(celsius):    return (celsius * 9 / 5) + 32 print("Fahrenheit:", to_fahrenheit(25))
