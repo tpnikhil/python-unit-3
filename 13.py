@@ -1,0 +1,1 @@
+def rectangle(length, breadth):    area = length * breadth    perimeter = 2 * (length + breadth)    return area, perimeter a, p = rectangle(5, 3) print("Area:", a) print("Perimeter:", p)
