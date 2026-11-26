@@ -1,0 +1,1 @@
+value = 100 def show_value():    value = 50  # Local variable    print("Inside function:", value) show_value() print("Outside function:", value)
