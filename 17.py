@@ -1,0 +1,1 @@
+def divide(a, b):    return a / b print("Keyword call:", divide(b=10, a=20)) print("Positional call:", divide(10, 20))
