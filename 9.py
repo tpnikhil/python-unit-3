@@ -1,0 +1,1 @@
+values = (15, 8, 32, 4, 21) print("Maximum:", max(values)) print("Minimum:", min(values))
