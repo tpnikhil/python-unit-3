@@ -1,0 +1,1 @@
+balance = 1000 def deposit(amount):    global balance    balance += amount def local_demo():    balance = 500  # Local variable only    print("Local balance:", balance) deposit(200) local_demo() print("Account balance:", balance)
