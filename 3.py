@@ -1,0 +1,1 @@
+numbers = [12, 45, 7, 23, 9] print("Largest:", max(numbers)) print("Smallest:", min(numbers))
