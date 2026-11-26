@@ -1,0 +1,1 @@
+numbers = [30, 10, 20] numbers.insert(1, 15) numbers.append(40) numbers.remove(10) numbers.sort() print("Sorted list:", numbers) numbers.reverse() print("Reversed list:", numbers)
