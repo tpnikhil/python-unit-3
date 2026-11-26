@@ -1,0 +1,1 @@
+t1 = (1, 2, 3) t2 = (4, 5) combined = t1 + t2 print("Concatenation:", combined) print("Slice:", combined[1:4]) a, b, c = (10, 20, 30) print("Unpacked values:", a, b, c)
